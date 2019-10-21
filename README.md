@@ -5,9 +5,9 @@ MATLAB R2018a or later
 MATLAB Image Processing Toolbox
 
 ## Downloaded Files
-Plant_Mottling_Analysis.fig: This is the figure file for the GUI
-Plant_Mottling_Analysis.m: This is the code for the GUI (to be used with the figure file above). BOTH of these are neceesary to run.
-tmv_mottling.m: This is a function that performs the same algorithm as the GUI
+Plant_Mottling_Analysis.fig: This is the figure file for the GUI\
+Plant_Mottling_Analysis.m: This is the code for the GUI (to be used with the figure file above). BOTH of these are neceesary to run.\
+tmv_mottling.m: This is a function that performs the same algorithm as the GUI\
 tmv_mottling_bulk.m: This is a script for performing this algorithm on a folder of images. This REQUIRES the function tmv_mottling.m to run.
 
 ## How to use
