@@ -1,7 +1,7 @@
 ## Stony Brook iGEM 2019
 
 ## Requirements
-MATLAB R2018a or later
+MATLAB R2018a or later\
 MATLAB Image Processing Toolbox
 
 ## Downloaded Files
